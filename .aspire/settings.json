@@ -1,0 +1,6 @@
+{
+  "appHostPath": "../static-site-aspire/static-site-aspire.csproj",
+  "features": {
+    "deployCommandEnabled": "true"
+  }
+}
